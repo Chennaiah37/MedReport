@@ -1,0 +1,9 @@
+[
+  {
+    "timestamp": "2026-03-15T17:31:58.884517",
+    "snippet": "MEDREPORT CLINICAL SYSTEMS\nDepartment of Pulmonology | Outpatient Clinical Note\nPatient Name: John D. Patient ID: P001\nD",
+    "prediction": "Chronic Obstructive Pulmonary Disease (COPD)",
+    "confidence": 50.6,
+    "engine": "Built-in Clinical NLP (BioClinicalBERT: error_410)"
+  }
+]
